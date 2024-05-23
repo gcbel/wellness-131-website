@@ -1,4 +1,4 @@
-# Wellness 131 Webpage
+# Stanford University Wellness 131 Website
 
 ## Description
 
