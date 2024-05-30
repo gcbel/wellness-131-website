@@ -18,7 +18,7 @@ the third allows us to input search criteria and finds a recording based on that
 
 ## Credits
 
-All recordings belong to Dr. Sarah Meyer Tapi and the Wellness department at Stanford University.
+All recordings belong to Dr. Sarah Meyer Tapia and the Wellness department at Stanford University.
 
 ## License
 
